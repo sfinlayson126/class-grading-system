@@ -7,8 +7,8 @@ The program can:
 2.	edit students in the class
 3.	delete students from the class
 4.	print the class’s grades
-5.	save students into a .csv file
-6.	load students from a .csv
+5.	save a class into a .csv file
+6.	load a class from a .csv
 
 All user input uses error checking so the program doesn't crash (or at least I couldn't crash it.)
 The grades can be opened in Excel from the .csv but a file saved in Excel will not open in the class grading system.
